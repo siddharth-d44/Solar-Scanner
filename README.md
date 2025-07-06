@@ -1,1 +1,1 @@
-# arduinoProjs
+This is a private repository in why I upload all of my smaller Arduino projects. These include small but cool projects that aren't too elaborate but involve important pieces of larger projects. This repository serves as a good reference for future large projects whihc require code from these smaller components. 
