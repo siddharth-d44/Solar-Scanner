@@ -17,12 +17,14 @@ int green = 5; // green anode on pin 5
 int blue = 6; // blue anode on pin 6
 
 
-
+// this is my setup code
 void setup() {
   // put your setup code here, to run once:
 
 }
 
+
+// this code operates the scanner and loops over and over again
 void loop() {
   // put your main code here, to run repeatedly:
 
